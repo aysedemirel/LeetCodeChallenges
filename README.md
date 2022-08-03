@@ -18,7 +18,7 @@
 
 ##### Day 1 - Prefix Sum :
 
-- [ ] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [x] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [ ] [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 
 ##### Day 2 - String :
