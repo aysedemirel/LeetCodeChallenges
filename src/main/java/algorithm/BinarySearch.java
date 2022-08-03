@@ -1,4 +1,4 @@
-package leetcode.algorithm;
+package algorithm;
 
 public class BinarySearch {
 

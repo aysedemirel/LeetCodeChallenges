@@ -1,4 +1,4 @@
-package leetcode.problems;
+package problems;
 
 public class AddTwoNums {
   public AddTwoNums() {}
