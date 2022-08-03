@@ -42,20 +42,17 @@ public class FindPivotIndex {
   public int pivotIndex(int[] nums) {
     int pivotIndex = -1;
     int sum = 0;
-    for (int i = 0; i < nums.length; i++) {
-      if (i != 0) {
-        sum += nums[i - 1];
-      }
-      int rightSum = 0;
-      for (int j = i + 1; j < nums.length; j++) {
-        rightSum += nums[j];
-      }
-      if (sum == rightSum) {
+    int leftsum = 0;
+    for (int x : nums) {
+      sum += x;
+    }
+    for (int i = 0; i < nums.length; ++i) {
+      if (leftsum == (sum - leftsum - nums[i])) {
         pivotIndex = i;
         break;
       }
+      leftsum += nums[i];
     }
     return pivotIndex;
-
   }
 }
