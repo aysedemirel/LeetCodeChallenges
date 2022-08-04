@@ -23,8 +23,8 @@
 
 ##### Day 2 - String :
 
-- [ ] [ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
-- [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [x] [ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 ##### Day 3 - Linked List :
 
