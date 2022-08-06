@@ -28,8 +28,8 @@
 
 ##### Day 3 - Linked List :
 
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [everse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ##### Day 4 - Linked list :
 
