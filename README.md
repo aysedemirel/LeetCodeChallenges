@@ -29,11 +29,11 @@
 ##### Day 3 - Linked List :
 
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ##### Day 4 - Linked list :
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ##### Day 5 - Greedy :
